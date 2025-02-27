@@ -1,4 +1,4 @@
-﻿saleId;date;stateId;serviceState;productId;product;tax;subtotal;total;clientId;client;districtId;district;provinceId;province;petId;Pet;sexId;sex;speciesId;species;breedId;breed;size;sizeId
+﻿saleId;date;stateId;serviceState;productId;product;tax;subtotal;total;clientId;client;districtId;district;provinceId;province;petId;pet;sexId;sex;speciesId;species;breedId;breed;size;sizeId
 81573;2/1/2023;1;Finished;17;Vacuna Séxtuple;15.3;69.7;85;1027;Thalia Torres Falconi;16;Lince;1;Lima;1753;ANASTASIA;1;Hembra;1;Caninos;16;Cocker;Mediano;2
 82329;2/1/2023;1;Finished;17;Vacuna Séxtuple;15.3;69.7;85;1027;Thalia Torres Falconi;16;Lince;1;Lima;1428;BELLA;1;Hembra;1;Caninos;16;Cocker;Pequeño;1
 88336;2/1/2023;1;Finished;9;Desparasitación;2.7;12.3;15;1027;Thalia Torres Falconi;16;Lince;1;Lima;1753;ANASTASIA;1;Hembra;1;Caninos;16;Cocker;Mediano;2
